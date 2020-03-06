@@ -1,0 +1,9 @@
+{
+	"name": "youggy",
+	"displayName": "YOUGGY ASSO",
+	"ios": {
+		"infoPlist": {
+			"LSApplicationQueriesSchemes": [ "mail" ]
+		}
+	}
+}
